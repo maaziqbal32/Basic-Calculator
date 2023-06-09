@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .button {
+    height: 78px;
+    width: 78px;
+    padding: 25px;
+    margin: 5px 1px;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+  }
+  
+  .button:hover {
+    background-color: black;
+    color: white;
+  
+  }
+  
+  .input {
+    font-size: 25px;
+    padding: 15px 35px;
+    margin: 15px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+ .container
+ {
+    border: 2px solid black;
+    width: 40%;
+    background-color: rgba(0,0 ,0, 0.2);
+    border-radius: 5px;
+ } 
